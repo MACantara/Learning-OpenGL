@@ -51,4 +51,7 @@
   <ItemGroup>
     <Text Include="src\README.txt" />
   </ItemGroup>
+  <ItemGroup>
+    <None Include=".gitignore" />
+  </ItemGroup>
 </Project>
